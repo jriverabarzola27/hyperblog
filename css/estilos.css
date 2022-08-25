@@ -14,8 +14,25 @@ body
     border: 1px solid #DDD;
 }
 
+#cabecera #tagline
+{
+    font-weight: normal
+}
+
 
 #container h1
 {
     font-size: 20px;
+}
+
+
+#cabecera
+{
+    background: #66D;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0,00.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
 }
